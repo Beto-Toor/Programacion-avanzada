@@ -25,7 +25,7 @@ int main() {
         descuento = salario * 0.15;  
     }
    
-    cout << "\n--- RESULTADOS ---" << endl;
+    cout << "\n-----Resultados-----" << endl;
     cout << "Salario original: " << salario << endl;
     cout << "Descuento aplicado: " << descuento << endl;
     cout << "Salario final a recibir: " << (salario - descuento) << endl;
